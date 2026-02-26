@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+transformers
+torch
+sentence-transformers
+faiss-cpu
+redis
+slowapi
+detoxify
+loguru
+pydantic
