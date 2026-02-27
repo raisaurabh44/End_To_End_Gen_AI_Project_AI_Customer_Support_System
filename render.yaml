@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: customer-support-llm
+    runtime: docker
+    dockerfile_path: ./Dockerfile
+    autoDeploy: true
+    
